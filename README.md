@@ -19,6 +19,7 @@ Important links:
 5. Matplot lib: https://matplotlib.org/
 
 
+<<<<<<< HEAD
 > <p align ="center"> $ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) </p>
 
 ## Exercise Regularly
@@ -32,4 +33,10 @@ Important links:
 </b>
 
 
+=======
+### learn git
+progit.pdf
+
+$ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) \\
+>>>>>>> 55deef7c356460868dbd0cede1f051e64c4988cd
 
