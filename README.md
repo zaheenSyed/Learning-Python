@@ -19,5 +19,17 @@ Important links:
 5. Matplot lib: https://matplotlib.org/
 
 
-$ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) \\
+> <p align ="center"> $ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) </p>
+
+## Exercise Regularly
+
+1. <a href="https://www.hackerrank.com/dashboard"> <img align="left" alt="hacker Rank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>[**Hacker Rank**](https://www.hackerrank.com/dashboard")
+
+</b>
+
+2. <a href="https://www.practicepython.org/"><img align="left" alt="prthon practice" width= "32px" src="https://www.practicepython.org/assets/img/logo.png"></a>[**Python practice**](https://www.practicepython.org/)
+
+</b>
+
+
 
