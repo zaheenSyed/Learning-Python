@@ -19,24 +19,29 @@ Important links:
 5. Matplot lib: https://matplotlib.org/
 
 
-<<<<<<< HEAD
 > <p align ="center"> $ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) </p>
 
-## Exercise Regularly
+## Exercise Regularly:
 
-1. <a href="https://www.hackerrank.com/dashboard"> <img align="left" alt="hacker Rank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>[**Hacker Rank**](https://www.hackerrank.com/dashboard")
+1. <a href="https://www.hackerrank.com/dashboard"> <img align="left" alt="hacker Rank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>
 
-</b>
+    [**Hacker Rank**](https://www.hackerrank.com/dashboard")    
+    .
 
-2. <a href="https://www.practicepython.org/"><img align="left" alt="prthon practice" width= "32px" src="https://www.practicepython.org/assets/img/logo.png"></a>[**Python practice**](https://www.practicepython.org/)
+2. <a href="https://www.practicepython.org/"><img align="left" alt="prthon practice" width= "32px" src="https://www.practicepython.org/assets/img/logo.png"></a>
 
-</b>
+    [**Python practice**](https://www.practicepython.org/)
+    .
+
+.
+## [Learn git](https://git-scm.com/book/en/v2)
+
+The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
+
+# [The Edx Course:](https://learning.edx.org/course/course-v1:HarvardX+PH526x+2T2021/home)
+
+THis course is conprehensive and case studies are enough to give a good revision of your python skills. 
 
 
-=======
-### learn git
-progit.pdf
 
-$ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) \\
->>>>>>> 55deef7c356460868dbd0cede1f051e64c4988cd
 
