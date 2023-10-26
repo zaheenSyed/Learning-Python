@@ -4,6 +4,7 @@
 </r>Learning platform:</r>
 1. Coursera
 2. EDX
+3. Udemy - all will be saved in the Udemy folder
 
 IDE and tools used
 1. Jupyter Notebook
@@ -18,7 +19,7 @@ Important links:
 4. Pandas: https://pandas.pydata.org/docs/index.html
 5. Matplot lib: https://matplotlib.org/
 
-
+⚡ *** Why? Becuase I can 🍾***:
 > <p align ="center"> $ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) </p>
 
 ## Exercise Regularly:
@@ -34,9 +35,9 @@ Important links:
     .
 
 .
-## [Learn git](https://git-scm.com/book/en/v2)
+# [Learn git](https://git-scm.com/book/en/v2)
 
-The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available here. All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
+The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available [here](https://git-scm.com/book/en/v2). All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
 
 # [The Edx Course:](https://learning.edx.org/course/course-v1:HarvardX+PH526x+2T2021/home)
 
