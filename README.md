@@ -4,7 +4,8 @@
 </r>Learning platform:</r>
 1. Coursera
 2. EDX
-3. Udemy - all will be saved in the Udemy folder
+3. Udemy - all will be saved in the Udemy [folder](./udemy/)
+    - This is the udemy ztm [course](#the-udemy-course)
 
 IDE and tools used
 1. Jupyter Notebook
