@@ -35,6 +35,11 @@ THis course is conprehensive and case studies are enough to give a good revision
 Complete Python Developer in 2023: Zero to Mastery
 
 
+## Python Repos
+1. [wilfredinni/python-cheatsheet](wilfredinni/python-cheatsheet)
+2. [Handson-ml2](https://github.com/zaheenSyed/handson-ml2)
+3. [Python Cheat sheet](https://github.com/zaheenSyed/python-cheatsheet-1)
+
 ## Exercise Regularly:
 
 1. <a href="https://www.hackerrank.com/dashboard"> <img align="left" alt="hacker Rank" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png"></a>
