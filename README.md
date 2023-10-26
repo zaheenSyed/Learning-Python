@@ -19,7 +19,7 @@ Important links:
 4. Pandas: https://pandas.pydata.org/docs/index.html
 5. Matplot lib: https://matplotlib.org/
 
-⚡ *** Why? Becuase I can 🍾***:
+<p align="center">⚡ *** Why? Becuase I can 🍾***: </p>
 > <p align ="center"> $ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) </p>
 
 ## Exercise Regularly:
