@@ -1,5 +1,5 @@
 # Learning-Python-For-Research
-##This is my first repository. Saving the memory. Happy Hello World.
+## This is my first repository. Saving the memory. Happy Hello World.
 
 </r>Learning platform:</r>
 1. Coursera
@@ -11,7 +11,7 @@ IDE and tools used
 2. VS code
 3. Google Collab
 
-Important links:
+## Important links:
 
 1. W3 school: https://www.w3schools.com/python/default.asp
 2. python Library: https://docs.python.org/3/library/functions.html#zip
@@ -20,7 +20,20 @@ Important links:
 5. Matplot lib: https://matplotlib.org/
 
 <p align="center">⚡ *** Why? Becuase I can 🍾***: </p>
-> <p align ="center"> $ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) </p>
+<p align ="center"> $ZEM = &= \sum_{n=-\infty}^{+\infty} f(x) </p>
+
+# [Learn git](https://git-scm.com/book/en/v2)
+
+The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available [here](https://git-scm.com/book/en/v2). All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
+
+# [The Edx Course:](https://learning.edx.org/course/course-v1:HarvardX+PH526x+2T2021/home)
+
+THis course is conprehensive and case studies are enough to give a good revision of your python skills. 
+- [x] Finished : Check linkedin for certificate
+
+# [The Udemy Course:](https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15575518#overview)
+Complete Python Developer in 2023: Zero to Mastery
+
 
 ## Exercise Regularly:
 
@@ -33,16 +46,5 @@ Important links:
 
     [**Python practice**](https://www.practicepython.org/)
     .
-
-.
-# [Learn git](https://git-scm.com/book/en/v2)
-
-The entire Pro Git book, written by Scott Chacon and Ben Straub and published by Apress, is available [here](https://git-scm.com/book/en/v2). All content is licensed under the Creative Commons Attribution Non Commercial Share Alike 3.0 license. Print versions of the book are available on Amazon.com.
-
-# [The Edx Course:](https://learning.edx.org/course/course-v1:HarvardX+PH526x+2T2021/home)
-
-THis course is conprehensive and case studies are enough to give a good revision of your python skills. 
-
-
 
 
