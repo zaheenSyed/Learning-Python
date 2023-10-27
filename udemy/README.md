@@ -6,7 +6,9 @@ Complete Python Developer in 2023: Zero to Mastery
 ## Important links:
 
 1. Course link : https://www.udemy.com/course/complete-python-developer-zero-to-mastery/learn/lecture/15575518#overview
-2. 
+2. Python ZTM cheatsheet : https://zerotomastery.io/cheatsheets/python-cheat-sheet/?utm_source=udemy&utm_medium=coursecontent
+3. 
+
 
 ## Python Repos
 1. [wilfredinni/python-cheatsheet](wilfredinni/python-cheatsheet)
