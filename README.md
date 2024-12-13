@@ -1,13 +1,17 @@
 # Learning-Python-For-Research
-## This is my first repository. Saving the memory. Happy Hello World.
+This is my first repository. Saving the memory. Happy Hello World.
 
-</r>Learning platform:</r>
+## </r>Learning platform:</r>
 1. Coursera
 2. EDX
 3. Udemy - all will be saved in the Udemy [folder](./udemy/)
     - This is the udemy ztm [course](#the-udemy-course)
 
-IDE and tools used
+## Personal Note:
+My codes personal notes are saved in the one_note Code_Note notebook. 
+- the environment.yaml file and requirement.txt are kept here to assis creating env. I created lpy11 with python 11 for this.
+
+## IDE and tools used
 1. Jupyter Notebook
 2. VS code
 3. Google Collab

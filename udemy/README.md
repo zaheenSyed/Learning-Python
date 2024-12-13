@@ -17,4 +17,25 @@ Complete Python Developer in 2023: Zero to Mastery
 
 
 
+# notes
+
+## Section 3
+
+### Python basics
+
+### Python data types:
+
+### Python numbers:
+
+### Python math modules:
+
+https://www.programiz.com/python-programming/modules/math
+### Developer fundamentals:
+ - don’t read a dictionary
+### Operator Precedence:
+
+### Python Key words
+
+https://www.w3schools.com/python/python_ref_keywords.asp
+
 
